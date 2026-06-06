@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Learn%20Aptitude&fontSize=56&fontColor=e94560&animation=fadeIn&fontAlignY=36&desc=Topic-wise%20Aptitude%20Prep%20for%20Placements%20%26%20Exams&descSize=16&descAlignY=58&descColor=a8b2d8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=650&lines=📐+Quantitative+Aptitude+—+Topic+wise;🧠+Logical+Reasoning+—+All+Types;📊+Data+Interpretation+—+Charts+%26+Tables;🏆+Crack+Campus+Placements+%26+Competitive+Exams!)](https://git.io/typing-svg)
 
